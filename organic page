@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="icon" type="image/x-icon" href="Cherry Branch.png">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href='defaultSiteStyle.css' rel='stylesheet'>
+    <title>Environmental Sustainability</title>
+  </head>
+
+  <!--•~~~•~~~•~~~•~~~•~~~• Navbar •~~~•~~~•~~~•~~~•~~~•-->
+  
+  <body class="beigeBackground">
+    <div> <!--Navbar Start-->
+      <ul class="defaultNavBar">
+          <li><a class="homeIcon" href="index.html"><img src="sparklyfernplant.png" style="height: 25px;"></a></li>
+          <li><a href="creators.html">Creators</a></li>
+          <li><a href="references.html">References</a></li>
+      </ul>
+    </div> <!--Navbar end-->
+    
+    <!--•~~~•~~~•~~~•~~~•~~~• Boxes (Info) •~~~•~~~•~~~•~~~•~~~•-->
+
+    <!--•~~~•~~~•~~~• Box 1 — Intro •~~~•~~~•~~~•-->
+    
+    <div class = "floatingBox", style = "margin-block-start: 100px;"> <!-- start box one -->
+      <h1><i>ENVIRONMENTAL SUSTAINABILITY</i></h1>
+      <section id="What_Is">
+        <h3 class="karma-medium" style="text-align: center;"><i>Environmental sustainability refers to the responsible management of natural resources to fulfill current needs without compromising the ability of future generations to meet their needs.</i></h3>
+      </section>
+    </div> <!-- end box one -->
+
+    <!--•~~~•~~~•~~~•~~~•~~~• Organic Navbar •~~~•~~~•~~~•~~~•~~~•-->
+
+    <div class = "organicNavBar"> <!-- start homepage navbar -->
+            <button onclick="window.location.href = 'organic.html';">Environmental</button>
+            <button onclick="window.location.href = 'nonorganic.html';">Non-Environmental</button>
+    </div> <!-- end homepage navbar -->
+
+    <!--•~~~•~~~•~~~• Box 2 — Single-Use Plastics •~~~•~~~•~~~•-->
+    
+    <div class="floatingBox", id="Single-Use-Plastic"> <!-- start box two -->
+      <h3>
+        <strong> Problem: Single Use Plastics </strong>
+      </h3>
+      <p class="karma-medium">
+        <strong> What it is: </strong> Plastic products that are made to be used once and disposed of right away. commonly used for packaging and serviceware, such as bags, bottles, wrappers, and straws.
+      </p>
+      <p class="karma-medium">
+        <strong> How it affects the environment:</strong>
+        Because nearly all plastics are made from fossil fuels, our addiction to plastic also impacts the climate. In fact, the plastics industry (which includes many companies that have invested in or are operating in oil and gas) is currently responsible for four times more greenhouse gas emissions than the airline industry. plastics don’t really decompose, instead, they just break up into microplastics. These fragments of plastic are hard to see and yet are everywhere. These microplastics quite easily end up in the water, on farmland, getting eaten by wildlife, and inside our bodies. There are health risks when we, or animals, ingest microplastics. For wildlife, microplastics can be particularly dangerous; when eaten, they can easily accumulate inside an animal’s body and cause serious health issues.
+      </p>
+      <p class="karma-medium">
+        <strong> Solution:</strong> Avoid as much plastic as you possibly can. Use multi-use products such as water bottles, coffee mugs, reusable straws, beeswax food wraps, reusable shopping bags, and sustainable eating utensils. Opting for reusable products can also save you money. For example, by purchasing one reusable water bottle, you could save an average of 1,500 plastic water bottles per year and $3,000.
+      </p>
+    </div> <!-- end box two -->
+
+    <!--•~~~•~~~•~~~• Box 3 — Carbon •~~~•~~~•~~~•-->
+
+    <div class="floatingBox", id="Carbon"> <!-- start box three -->
+      <h3><strong>Problem: Carbon Emissions</strong></h3>
+      <p class="karma-medium">
+        <strong> What it is: </strong> Carbon Dioxide is the primary greenhouse gas emitted through burning fossil fuels (coal, natural gas, and oil), solid waste, trees and other biological materials, and also as a result of certain chemical reactions. Carbon dioxide is removed from the atmosphere when it is absorbed by plants as part of the biological carbon cycle.
+      </p>
+      <p class="karma-medium">
+        <strong> How it affects the environment:</strong>  Greenhouse gases trap the sun’s heat inside the atmosphere. This leads to global warming and climate change. The world is now warming faster than at any point in recorded history. Warmer temperatures over time are changing weather patterns and disrupting the usual balance of nature.
+      </p>
+      <p class="karma-medium">
+        <strong> Solution:</strong> Reduce traveling, take public transport or walk/bike, use LED light bulbs, recycle, Avoid products with excessive packaging, and use less hot water.
+      </p>
+    </div> <!-- end box three -->
+
+    <!--•~~~•~~~•~~~• Box 4 — Food Waste •~~~•~~~•~~~•-->
+    
+    <div class="floatingBox", id="Food-Waste"> <!-- start box four -->
+      <p class="karma-medium"> <h3><strong> Problem: Food Waste </strong></h3> 
+      <p class="karma-medium"> <strong> What it is: </strong> Food that wasn’t eaten, and therefore, spoils or/and is tossed away. </p>
+      <p class="karma-medium"><strong> How it affects the environment:</strong> When garbarged, food waste is sent to landfills where it rots and produces methane, a greenhouse gas 25 times stronger than carbon dioxide, contributing to climate change. Wasting food is wasting land and natural resources. Agriculture accounts for 70% of the water used throughout the world. Therefore, wasting food contributes to water waste. As of 2024, it has been estimated that 30 - 40% of food is wasted in the United States alone.
+      </p>
+      <p class="karma-medium"> <strong> Solution:</strong> Limit shopping, freeze leftovers, plan meals ahead, compost. Shop using surplus food delivery services such as <a href="https://www.imperfectfoods.com/?redirect=true&promo=IF240610X2" target="_blank">Imperfect Foods</a>, <a href="https://www.misfitsmarket.com/?redirect=true&promo=240610X2" target="_blank">Misfits Market</a>, and <a href="https://www.toogoodtogo.com/en-us" target="_blank">Too Good to Go</a>.
+      </p>
+    </div> <!-- end box four -->
+
+    <!--•~~~•~~~•~~~• Box 5 — Fast Fashion •~~~•~~~•~~~•-->
+    
+    <div class="floatingBox", id="Fast-Fashion"> <!-- start box five -->
+      <h3><strong> Problem: Fast Fashion </strong></h3> 
+      <p class="karma-medium"> <strong> What it is: </strong> Low quality apparel, rapidly manufactured to follow current fashion trends, sold at cheap prices. Fast fashion brands often target young people, those who use social media a lot. These people are influenced by influencers and celebrities and want to wear what they wear. Companies take advantage of this and rush to make new clothing. </p>
+      <p class="karma-medium"> <strong> How it affects the environment:</strong> Nowadays, fashion trends quickly change from one to the next, so fast fashion brands quickly produce trendy clothes. Due to the fast production and low cost, designs are not well tested and the quality of the fabric is cheap. The clothes will be worn out after only a few wears and they will be thrown out and end up in landfills. It’s estimated that the average item of clothing is worn just 14 times. This contributes to plastic pollution as over half of textiles produced is polyester. The industry produces an estimated 92 million tonnes of textiles waste annually, much of which is burnt or finds its way to landfill, while less than 1% of used clothing is recycled into new garments. The industry also has a heavy carbon footprint, which is responsible for up to 10% of total global carbon emissions, and is estimated to increase by 50% by 2030.
+      </p>
+      <p class="karma-medium"> <strong> Solution:</strong> Buy clothes that last a long time. Don’t buy quality clothes that last. Don’t follow fashion trends and immediately throw out your clothes once they go out of style. Avoid fast fashion brands such as SHEIN, Temu, H&M, and Zara. Search up resources such as <a href="https://goodonyou.eco" target="_blank">Good On You</a> to find sustainable clothing brands</p>
+    </div> <!-- end box five -->
+  </body>
