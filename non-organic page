@@ -1,0 +1,82 @@
+<!--research on non organic stuff///Hiatt-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="icon" type="image/x-icon" href="City Notebook.png">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href='defaultSiteStyle.css' rel='stylesheet'>
+    <title>Non-Environmental Sustainability</title>
+  </head>
+
+  <!--•~~~•~~~•~~~•~~~•~~~• Navbar •~~~•~~~•~~~•~~~•~~~•-->
+
+  <body class="beigeBackground">
+    <div> <!--Navbar Start-->
+      <ul class="defaultNavBar">
+          <li><a class="homeIcon" href="index.html"><img src="sparklyfernplant.png" style="height: 25px;"></a></li>
+          <li><a href="creators.html">Creators</a></li>
+          <li><a href="references.html">References</a></li>
+      </ul>
+    </div> <!--Navbar end-->
+
+    <!--•~~~•~~~•~~~•~~~•~~~• Boxes (Info) •~~~•~~~•~~~•~~~•~~~•-->
+
+    <!--•~~~•~~~•~~~• Box 1 — Intro •~~~•~~~•~~~•-->
+
+    <div class = "floatingBox", style = "margin-block-start: 100px;"> <!-- start box one -->
+      <h1><i>NON-ENVIRONMENTAL SUSTAINABILITY</i></h1>
+      <h3 class="karma-medium" style="text-align: center;"><i>Non-Environmental sustainability refers to the responsible management of non-natural resources to fulfill current needs without compromising the ability of future generations to meet their needs.</i></h3>
+      </section>
+    </div> <!-- end box one -->
+
+    <!--•~~~•~~~•~~~•~~~•~~~• Organic Navbar •~~~•~~~•~~~•~~~•~~~•-->
+
+    <div class = "organicNavBar"> <!-- start homepage navbar -->
+              <button onclick="window.location.href = 'organic.html';">Environmental</button>
+              <button onclick="window.location.href = 'nonorganic.html';">Non-Environmental</button>
+      </div> <!-- end homepage navbar -->
+
+    <!--•~~~•~~~•~~~• Box 2 •~~~•~~~•~~~•-->
+
+    <div class="floatingBox", id="TOPIC1"> <!-- start box two -->
+      <h3>
+        <strong> Our Non-organic mission: </strong>
+      </h3>
+      <p class="karma-medium">
+        <strong> What it is: </strong> As housing and homelessness is a recurring issue in all cities, we decided to try to take the problem to Philadelphia and scale it to the rest of the country using pre-approved and affordable blueprints and materials to spread the growing idea of tiny housing to the world.
+      </p>
+    </div> <!-- end box two -->
+
+    <!--•~~~•~~~•~~~• Box 3 •~~~•~~~•~~~•-->
+
+    <div class="floatingBox", id="TOPIC2"> <!-- start box three -->
+      <h3><strong>List of Facts</strong></h3>
+      <p class="karma-medium">
+          <p style="text-align: center;">Tiny homes currently account for 0.36% of the total residential listings in the U.S.</p><br>
+
+          <p style="text-align: center;">There are about 10,000 tiny homes in the United States.<p><br>
+
+          <p style="text-align: center;">The average price of a tiny home is $67,000, which is 87% cheaper than the average price of a normal-sized house.<p><br>
+
+          <p style="text-align: center;">Nearly 1 in 3 Americans have stayed in an alternative living space rental and 92% enjoyed the stay.<p><br>
+
+          <p style="text-align: center;">More than 1 in 10 (11%) Americans plan to buy an alternative living space in the next year<p><br>
+
+          <p style="text-align: center;">According to a survey conducted by the National Association of Home Builders, 56% of adults in the US would consider living in a home that is less than 600 square feet.</p><br>
+
+          <p style="text-align: center;">A study by the American Tiny House Association found that nearly half (46%) of Americans who are interested in tiny homes live in suburban areas, while only 30% live in urban areas.</p><br>
+
+          <p style="text-align: center;">The same study also found that 55% of Americans interested in tiny homes are aged between 18 and 34 years old</p>
+        <br>
+      </p>
+    </div> <!-- end box three -->
+
+    <!--•~~~•~~~•~~~• Box 4 •~~~•~~~•~~~•-->
+
+    <div class="floatingBox", id="TOPIC3"> <!-- start box four -->
+      <p class="karma-medium"> 
+        <h3><strong> So, with an audience identified, our focus should be on promoting the idea of alternative living to urban citizens, leading to amassing tiny homes in the city that are easily accessible. </strong></h3> 
+    </div> <!-- end box four -->
+  </body>
+</html>
