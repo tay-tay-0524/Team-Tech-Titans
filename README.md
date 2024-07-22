@@ -1,2 +1,2 @@
 # Team-Tech-Titans
-Our project is still being in question but we have sustainability, different cultures, insecurity, etc
+Our project has change to almost being 100% finished. We combined the idea of sustainability of animal with the environment to inform readers about how helped the environment will not only help people but animals as well. We also have a sustainability that's not organic to represent how people live their lives, like money in the city and having a roof over your head. Our main code and other things that was needed for the project, being images or extra code, is linked here: https://replit.com/@Tay3904Tay/CCI-Project-Draft-newest-draft-3
