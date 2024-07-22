@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" type="image/x-icon" href="sparklyfernplant.png">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href='defaultSiteStyle.css' rel='stylesheet'>
+    <title>Sustainability</title>
+</head>
+    
+<body class="beigeBackground">
+
+    <!--•~~~•~~~•~~~•~~~•~~~• Navbar •~~~•~~~•~~~•~~~•~~~•-->
+    
+    <div> <!--Navbar Start-->
+        <ul class="defaultNavBar">
+            <li><a class="homeIcon" href="index.html"><img src="sparklyfernplant.png" style="height: 25px;"></a></li>
+            <li><a href="creators.html">Creators</a></li>
+            <li><a href="references.html">References</a></li>
+        </ul>
+    </div> <!--Navbar end-->
+
+    <!--•~~~•~~~•~~~•~~~•~~~• Box One •~~~•~~~•~~~•~~~•~~~•-->
+    
+    <div class = "floatingBox", style = "margin-block-start: 100px;"> <!-- start first box -->
+            <h1 style = "text-align: center;"><i>SUSTAINABILITY</i></h1>
+            <h3 style="text-align: center;" class="karma-medium"><i> <!-- start of body text -->
+                Sustainability is defined as "to create and maintain conditions under which humans and nature can exist in productive harmony to support present and future generations. This is can go into nature and into the lives of people."
+            </i></h3> <!-- end of body text -->
+    </div> <!-- end first box -->
+
+    <!--•~~~•~~~•~~~•~~~•~~~• Organic Navbar •~~~•~~~•~~~•~~~•~~~•-->
+    
+    <div class = "organicNavBar"> <!-- start homepage navbar -->
+            <button onclick="window.location.href = 'organic.html';">Environmental</button>
+            <button onclick="window.location.href = 'nonorganic.html';">Non-Environmental</button>
+    </div> <!-- end homepage navbar -->
+
+    <!--•~~~•~~~•~~~• Box Two •~~~•~~~•~~~•-->
+    
+    <div class = "floatingBox""> <!-- start second box -->
+        
+        <h3 style="margin-bottom: 0px;"><strong>Examples of environmental sustainability:</strong></h3>
+
+        <hr> <!-- Horizontal Line !! -->
+        
+            <p> 
+                <strong>Plants/Environment</strong> - helping the enivronment by reducing the amount of litter around the parks, streets, and around the world.
+            </p>
+            <p>
+                <strong>Air</strong> - stop polluating the air with toxic substances.
+            </p>
+            <p>
+                <strong>Water</strong> - with the water full of items like trash and chemicals that are harmful to humans, it has become harmful for anyone to fish or even go into without having many precautions before jumping.
+            </p>
+            <p>
+                <strong>Animals</strong> - with wild animals, including normal house animals, everywhere, the world is now becoming more harder for them to live. Trash is everywhere, leaving only that for them to eat, which makes them sick. Air and water, without them, they will not survive.
+            </p>
+    </div> <!-- end second box -->
+
+    <!--•~~~•~~~•~~~• Box Three •~~~•~~~•~~~•-->
+    
+    <div class = "floatingBox", style = "margin-block-start: 25px;"> <!-- start third box -->
+        <h3><strong> Examples of non-environmental sustainability:</strong></h3>
+        
+        <hr> <!-- Horizontal Line !! -->
+        
+            <p> 
+                <strong> Waste Reduction: </strong> Reducing the amount of items thrown away or finding a sustainable way to dispose of them is a good way to protect the environment and animals from pollution and poisoning.
+            </p>
+            <p>
+                <strong> Awareness: </strong> Making others aware of how to be more sustainable will improve sustainable practices around the world and is an overall benefit.
+            </p>
+            <p>
+                <strong> Passing Sustainable Laws: </strong> Passing laws will help to protect the Earth from harmful practices with government backing across the world.
+            </p>
+            <p>
+                <strong> Homes: </strong> While people have good homes, some do not and have to live in bad places just to have a roof over their head.
+            </p>
+    </div> <!-- end third box -->
+    
+    </body>
+</html>
